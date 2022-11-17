@@ -9,7 +9,7 @@
 
 ###### My contact information:  
 ![(email)](https://img.icons8.com/material-outlined/13/000000/email-open.png) [sergey.gavr@internet.ru](mailto:sergey.gavr@internet.ru)  
-![(telegram)](https://img.icons8.com/material-rounded/12/000000/telegram-app.png)[@gavrserg](https://t.me/gavrserg)  
+![(telegram)](https://img.icons8.com/material-rounded/12/000000/telegram-app.png) [@gavrserg](https://t.me/gavrserg)  
 <!-- ![(linkedin)](https://img.icons8.com/material-rounded/12/000000/linkedin--v2.png)*Coming soon*   -->
 <!-- ![(facebook)](https://img.icons8.com/ios-glyphs/12/000000/facebook-new.png)*Coming soon* -->
 <!--
